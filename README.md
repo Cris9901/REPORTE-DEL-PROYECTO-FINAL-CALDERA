@@ -342,9 +342,13 @@ Resultados en **Node-red**
 
 ![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%2026.jpg)
 
+![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%2027.jpg)
+
+![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%2028.jpg)
+
 Resultados en **WOKWI**
 
-![]()
+![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%2024.jpg)
 
 ## Conclusión
 
