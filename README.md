@@ -360,7 +360,7 @@ Resultados en **WOKWI**
 
 - Ing. Cristian Montañez Mejia. [GITHUB](https://github.com/Cris9901)
 - Ing. Roberto Miguel Patiño Lozano. [GITHUB](https://github.com/robertopatino42)
-
+- Ing. Roberto Palacios Garibay. [GITHUB](https://github.com/RobertoPalacios17)
 
 
 
