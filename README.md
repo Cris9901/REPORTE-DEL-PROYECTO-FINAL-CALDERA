@@ -281,11 +281,11 @@ return msg;
 
 ![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%2013.jpg)
 
-11. Colocamos un bloque ```Guage``` a cada una de las funciones de **TEMPERATURA**, **HUMEDAD** y **DISTANCIA**.
+12. Colocamos un bloque ```Guage``` a cada una de las funciones de **TEMPERATURA**, **HUMEDAD** y **DISTANCIA**.
 
 ![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%2014.jpg)
 
-12. Los configuramos de la siguiente manera, dependiendo de cada funcion.
+13. Los configuramos de la siguiente manera, dependiendo de cada funcion.
 
 **TEMPERATURA**
 
@@ -299,27 +299,27 @@ return msg;
 
 ![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%2017.jpg)
 
-13. Colocamos un bloque ```text``` a la funcion de **CALDERA**.
+14. Colocamos un bloque ```text``` a la funcion de **CALDERA**.
 
 ![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%2018.jpg)
 
-14. Configuramos el bloque ```text``` como en la foto.
+15. Configuramos el bloque ```text``` como en la foto.
 
 ![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%2019.jpg)
 
-15. Colocamos un bloque ```chart``` a la funcion de **NIVEL**.
+16. Colocamos un bloque ```chart``` a la funcion de **NIVEL**.
 
 ![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%2020.jpg)
 
-16. Configuramos el bloque ```chart``` como en la foto.
+17. Configuramos el bloque ```chart``` como en la foto.
 
 ![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%2021.jpg)
 
-17. Conectamos todas las funciones de la siguiente manera.
+18. Conectamos todas las funciones de la siguiente manera.
 
 ![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%2022.jpg)
 
-18. Por ultimo, en la pestaña de *Layout* crearemos otro tabulador llamado **PROYECTO FINAL**, dentro de el añadiremos tres grupos uno para los indicadores, otro para las graficas y el ultimo para el texto; de igual manera colocaremos espaciadores de temperatura, humedad, nivel y texto, los colocaremos segun sea el caso y la especificación.
+19. Por ultimo, en la pestaña de *Layout* crearemos otro tabulador llamado **PROYECTO FINAL**, dentro de el añadiremos tres grupos uno para los indicadores, otro para las graficas y el ultimo para el texto; de igual manera colocaremos espaciadores de temperatura, humedad, nivel y texto, los colocaremos segun sea el caso y la especificación.
 
 ![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%2023.jpg)
 
