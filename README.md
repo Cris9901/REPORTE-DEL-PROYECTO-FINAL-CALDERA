@@ -205,39 +205,39 @@ if (dhtSensor.getTemperature() >= 50)
 
 2. Abrir el simulador [WOKWI](https://https://wokwi.com/) e instalar las librerias de **DHT sensor library for ESPx**, **PubSubClient** y **ArduinoJson**  como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%201.jpg)
 
 3. Colocar y hacer la conexion del sensor **DHT11** con la tarjeta **ESP32** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%202.jpg)
 
 4. Insertar y hacer la conexion del sensor ultrasónico **HC-SR04** con la tarjeta **ESP32** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%203.jpg)
 
 5. Abrir el programa de **Node-RED** e instalar los nodos ```node-red-dashboard``` y ```node-red-node-mysql```, que se encuentran en la opcion de **Manage palette**.
 
-![]()
+![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%204.jpg)
 
 6. Colocar el bloque de ```mqtt in```.
 
-![]()
+![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%205.jpg)
 
 7. Configurar el bloque ```mqtt in``` en el puerto del servidor con el ip ```18.193.219.109``` y el *topic* ```PROYECTOFINAL``` como se muestra en la imagen.
 
-![]()
+![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%206.jpg)
 
 8. Colocar el bloque ```json```.
 
-![]()
+![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%207.jpg)
 
 9. Configurar el bloque con la acción de ```Always convert to JavaScript Object```  como se muestra en la imagen.
 
-![]()
+![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%208.jpg)
 
 10. Colocar cuatro bloques ```function```.
 
-![]()
+![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%209.jpg)
 
 11. Los configuramos con el siguiente codigo, dependiendo de cada funcion.
 
@@ -249,7 +249,7 @@ msg.topic = "CALDERA";
 return msg;
 ```
 
-![]()
+![](https://github.com/Cris9901/REPORTE-DEL-PROYECTO-FINAL-CALDERA/blob/main/IMAGEN%2010.jpg)
 
 **TEMPERATURA**
 
