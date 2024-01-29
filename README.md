@@ -352,7 +352,9 @@ Resultados en **WOKWI**
 
 ## Conclusión
 
-
+Las calderas son sistemas de generación de calor y vapor continuos, donde dicho calor se produce a través de un combustible o electricidad y transmitirlo a un fluido contenido en su interior. Posteriormente ese fluido se emplea como suministro de energía para las operaciones que sean necesarias en la industria. Debido a que es un proceso donde se deben considerar bastantes variables para su correcto funcionamiento, la programación se vuelve complicado dependiendo de lo que queremos que se maneje o las necesidades que debamos cubrir. 
+En este proyecto pudimos lograr los objetivos que teníamos planteados en nuestra programación; logramos que nuestro programa funcionara de manera correcta para que en la interfaz HMI nos indicara el nivel en el que se encontrara el agua dentro de la caldera, también logramos que indicara la temperatura y se apagara automáticamente el calentamiento de la caldera cuando esta llegara a los 50°C en su interior mandando el mensaje del proceso de calentamiento en estado ON y en estado OFF.
+A pesar de que logramos que nuestro proyecto funcionara como lo teníamos planeado y el programa corriera de manera correcta, detectamos varios puntos débiles de nuestra interfaz que tenemos que reforzar y que nos hubiera gustado que aparecieran en ella. En primer lugar, cambiaríamos las unidades de nivel de centímetros a litros, de igual manera preferiríamos que fuera más especifica e interactiva la interfaz con el usuario. Para ser nuestro primer proyecto y la primera vez en utilizar tanto el simulador WOKWI como el programa Node-red, no fue tan difícil la lógica de programación y las dos plataformas fueron bastante amigables para el uso didáctico. 
 
 # Créditos
 
